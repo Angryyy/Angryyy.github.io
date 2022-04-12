@@ -1,1 +1,2 @@
 # Angryyy.github.io
+THIS IS MY FIRST PAGE, FOLLOW MY FRONTEND PATH
